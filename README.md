@@ -87,7 +87,7 @@ industrial-predictive-maintenance/
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Erfan-innovative-coder/industrial-predictive-maintenance.git
 cd industrial-predictive-maintenance
 pip install -r requirements.txt
 ```
